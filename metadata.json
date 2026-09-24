@@ -1,0 +1,6 @@
+{
+  "name": "Really Simple Social",
+  "description": "All-in-one social media growth panel, automated post scheduling, analytics, dedicated Naira (₦) wallet with 6-digit email token verification, and offline-synchronized cloud storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
